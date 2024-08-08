@@ -1,2 +1,2 @@
-# ENERGY-CONSUMPTION-PREDICTION-AND-OPTIMIZATION-USING-RANDOM-FOREST-REGRESSOR-MODEL-
+# ELECTRICTY-CONSUMPTION-PREDICTION-AND-OPTIMIZATION-USING-RANDOM-FOREST-REGRESSOR-MODEL-
 This project focuses on predicting and optimizing energy consumption using advanced data analysis and machine learning techniques. By leveraging historical energy usage data, the project aims to provide accurate predictions and suggest optimizations for reducing overall energy consumption, leading to cost savings and environmental benefits.
